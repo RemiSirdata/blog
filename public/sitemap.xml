@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://remidemol.com/</loc>
-    <lastmod>2021-03-13T19:18:08+01:00</lastmod>
+    <loc>https://remisirdata.github.io/blog/</loc>
+    <lastmod>2021-03-13T20:33:25+01:00</lastmod>
   </url><url>
-    <loc>https://remidemol.com/post/blog_statique_go_hugo/</loc>
-    <lastmod>2021-03-13T19:18:08+01:00</lastmod>
+    <loc>https://remisirdata.github.io/blog/post/blog_statique_go_hugo/</loc>
+    <lastmod>2021-03-13T20:33:25+01:00</lastmod>
   </url><url>
-    <loc>https://remidemol.com/post/</loc>
-    <lastmod>2021-03-13T19:18:08+01:00</lastmod>
+    <loc>https://remisirdata.github.io/blog/post/</loc>
+    <lastmod>2021-03-13T20:33:25+01:00</lastmod>
   </url><url>
-    <loc>https://remidemol.com/readme/</loc>
+    <loc>https://remisirdata.github.io/blog/readme/</loc>
     <lastmod>2021-03-13T18:58:16+01:00</lastmod>
   </url><url>
-    <loc>https://remidemol.com/categories/</loc>
+    <loc>https://remisirdata.github.io/blog/categories/</loc>
   </url><url>
-    <loc>https://remidemol.com/tags/</loc>
+    <loc>https://remisirdata.github.io/blog/tags/</loc>
   </url>
 </urlset>

@@ -1,4 +1,4 @@
-baseURL = "https://remidemol.com"
+baseURL = "https://remisirdata.github.io/blog/"
 languageCode = "fr-FR"
 title = "Apprendre à développer par l'exemple"
 theme = "github-style"
