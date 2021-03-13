@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apprendre à développer par l&#39;exemple</title>
+    <link>https://remidemol.com/</link>
+    <description>Recent content on Apprendre à développer par l&#39;exemple</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Sat, 13 Mar 2021 12:24:39 +0100</lastBuildDate><atom:link href="https://remidemol.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creation d&#39;un blog statique thème Github avec GoHugo</title>
+      <link>https://remidemol.com/post/blog_statique_go_hugo/</link>
+      <pubDate>Sat, 13 Mar 2021 12:24:39 +0100</pubDate>
+      
+      <guid>https://remidemol.com/post/blog_statique_go_hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Une autre approche de tech blog</title>
+      <link>https://remidemol.com/readme/</link>
+      <pubDate>Sat, 13 Mar 2021 11:03:13 +0100</pubDate>
+      
+      <guid>https://remidemol.com/readme/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
