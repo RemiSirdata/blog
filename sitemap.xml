@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://remisirdata.github.io/blog/</loc>
-    <lastmod>2021-03-13T20:33:25+01:00</lastmod>
+    <loc>https://blog.demol.info/</loc>
+    <lastmod>2021-03-13T21:10:47+01:00</lastmod>
   </url><url>
-    <loc>https://remisirdata.github.io/blog/post/blog_statique_go_hugo/</loc>
-    <lastmod>2021-03-13T20:33:25+01:00</lastmod>
+    <loc>https://blog.demol.info/post/blog_statique_go_hugo/</loc>
+    <lastmod>2021-03-13T21:10:47+01:00</lastmod>
   </url><url>
-    <loc>https://remisirdata.github.io/blog/post/</loc>
-    <lastmod>2021-03-13T20:33:25+01:00</lastmod>
+    <loc>https://blog.demol.info/post/</loc>
+    <lastmod>2021-03-13T21:10:47+01:00</lastmod>
   </url><url>
-    <loc>https://remisirdata.github.io/blog/readme/</loc>
+    <loc>https://blog.demol.info/readme/</loc>
     <lastmod>2021-03-13T18:58:16+01:00</lastmod>
   </url><url>
-    <loc>https://remisirdata.github.io/blog/categories/</loc>
+    <loc>https://blog.demol.info/categories/</loc>
   </url><url>
-    <loc>https://remisirdata.github.io/blog/tags/</loc>
+    <loc>https://blog.demol.info/tags/</loc>
   </url>
 </urlset>
