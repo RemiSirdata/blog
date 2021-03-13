@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Apprendre à développer par l&#39;exemple</title>
-    <link>https://remidemol.com/categories/</link>
+    <link>https://remisirdata.github.io/blog/categories/</link>
     <description>Recent content in Categories on Apprendre à développer par l&#39;exemple</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-FR</language><atom:link href="https://remidemol.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-FR</language><atom:link href="https://remisirdata.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
