@@ -57,3 +57,11 @@ hugo
 Fichiers générés dans ./public
 
 Prochain post : déployer facilement avec [Qovery](https://www.qovery.com/)
+
+# Bonus 
+
+Définir le répertoire *public* en tant que subtree dans la branche website pour créer une Github pages
+
+```
+    git subtree push --prefix public origin website
+```
