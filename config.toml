@@ -1,0 +1,33 @@
+baseURL = "https://remidemol.com"
+languageCode = "fr-FR"
+title = "Apprendre à développer par l'exemple"
+theme = "github-style"
+googleAnalytics = ""
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  author = "Rémi Demol"
+  description = "Apprendre par l'exemple"
+  github = "RemiSirdata"
+  avatar = "/images/avatar-remi.png"
+  #facebook = "MeiK2333"
+  twitter = "_RDemol"
+  #linkedin = "MeiK2333"
+  #instagram = "MeiK2333"
+  #tumblr = "MeiK2333"
+  email = "remi@demol.info"
+  url = "https://github.com/RemiSirdata"
+  keywords = "blog, google analytics"
+  rss = true
+  lastmod = true
+  favicon = "/images/github.png"
+  location = "France"
+
+  [[params.links]]
+    title = "Sirdata"
+    href = "https://www.sirdata.io"
+    icon = "https://sirdata.com/images/puce-Sirdata.svg"
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
